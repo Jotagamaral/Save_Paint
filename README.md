@@ -1,5 +1,5 @@
 # Save_Paint
-Script for saving images in paint
+Script to save images in Paint
 
 #### PT-br 
 
