@@ -20,7 +20,7 @@ def selecionar_pasta():
 # Função que salva as imagens
 def save_images(pasta_selecionada):
     # Caminho para o executável do Paint
-    caminho_paint = r'C:\Users\jotag\AppData\Local\Microsoft\WindowsApps\mspaint.exe'
+    caminho_paint = r'C:\Users\{'Username'}\AppData\Local\Microsoft\WindowsApps\mspaint.exe'
 
     # Obter a lista de arquivos na pasta de fotos
     arquivos_na_pasta = os.listdir(pasta_selecionada)
